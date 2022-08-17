@@ -13,3 +13,6 @@ Steps to follow:
 7. Training the model
 8. Evaluating the trained model
 9. Ploting the classification results, confusion matrix using Matplotlib.
+
+
+Any data set will work for this; I used the Breast Cancer data set from online sources.
